@@ -1,0 +1,43 @@
+
+.naav{
+    color:#416D8E;
+    text-align: center;
+}
+
+li{
+    color:yellowgreen;
+    font-size: 20px;
+}
+
+
+.myImg{
+    width:250px;
+    height:auto;
+    margin-left:55px;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+.list{
+    list-style-type:none;
+    padding: 0px;
+}
+
+.box{
+    background-color: #416D8E;
+    text-align: center;
+}
+
+.headerr{
+    color:#E6EF26 ;  
+
+}
+
+.box2{
+   ;
+    text-align: center;
+
+}
